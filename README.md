@@ -49,9 +49,6 @@ The firmware is modular, ensuring scalability, maintainability, and portability.
 - **Custom Graphics Engine**  
   A lightweight rendering engine is implemented on the TFT driver for drawing sprites (Pacman, ghosts, walls) and updating only changed parts of the screen to optimize performance.
 
-- **Interrupt-Based Input Handling**  
-  GPIO input pins are configured with interrupt capability for responsive button presses without blocking the main loop.
-
 - **Clock Tree Management**  
   RCC driver ensures optimal clock distribution to peripherals, enabling low-power but high-performance operation.
 
