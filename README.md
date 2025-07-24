@@ -1,4 +1,4 @@
-# Pacman ARM Project
+# Packman Stimulation USing STM32 Cortex-M4 Project
 
 ## Overview
 This project implements the classic **Pacman game** on an ARM-based microcontroller platform.  
