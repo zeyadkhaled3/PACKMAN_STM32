@@ -1,4 +1,4 @@
-# Pacman ARM Firmware – Include Files Documentation
+# Packman ARM Firmware – Include Files Documentation
 
 ## Overview
 This firmware is developed for running the Pacman game on an ARM-based microcontroller platform.  
