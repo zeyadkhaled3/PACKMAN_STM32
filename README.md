@@ -32,8 +32,8 @@ The firmware is modular, ensuring scalability, maintainability, and portability.
 - **MGPIO:** Handles input buttons and digital outputs.
 
 ---
-## Advanced Firmware Features Used
-
+## Features Used In The Project
+---------------------------------
 - **Modular Driver Architecture**  
   Each peripheral (SPI, SysTick, GPIO, RCC, TFT) is implemented as an independent driver, improving scalability and reusability.
 
