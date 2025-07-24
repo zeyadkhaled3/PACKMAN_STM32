@@ -1,8 +1,7 @@
 /*
  * TFT_program.c
- *
- *  Created on: Aug 29, 2024
- *      Author: ahmed
+ *  Created on: Jul 24, 2025
+ *      
  */
 
 #include "BIT_MATH.h"
