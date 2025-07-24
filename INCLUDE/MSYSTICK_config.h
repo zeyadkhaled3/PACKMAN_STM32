@@ -1,8 +1,7 @@
 /*
  * MSYSTICK_config.h
  *
- *  Created on: Aug 2, 2024
- *      Author: ahmed
+ *  Created on: Jul 24, 2025
  */
 
 #ifndef MSYSTICK_CONFIG_H_
