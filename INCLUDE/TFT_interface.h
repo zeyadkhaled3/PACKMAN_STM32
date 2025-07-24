@@ -1,8 +1,7 @@
 /*
  * TFT_interface.h
  *
- *  Created on: Aug 29, 2024
- *      Author: ahmed
+ *  Created on: Jul 24, 2025
  */
 
 #ifndef TFT_INTERFACE_H_
